@@ -81,6 +81,7 @@ a {
 #rot-1 {
     background-image: url(imgs/mat/poster.jpg);
     background-repeat: repeat;
+    background-position: center center;
     text-align: center;
 }
 
@@ -91,6 +92,8 @@ a {
 /* CONTATO */
 #rot-2 {
     background-image: url(imgs/mat/JBLI-side2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
     text-align: center;
 }
 
@@ -107,7 +110,7 @@ a {
 
 .background1 {
     border: 5px solid blue;
-    background-image: url(imgs/blur-video-c-sm.png);
+    background-image: url(imgs/blur/blur-video-c-sm.png);
     background-position: center center;
     width: 100%;
 }
@@ -253,6 +256,5 @@ p4 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
 
 

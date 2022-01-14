@@ -117,8 +117,7 @@ a {
 
 
 .background2 {
-    background-image: url(imgs/mat/books-blur.png);
-    background-repeat: space;
+    background-color: lightslategrey;
     width: 100%;
 }
 

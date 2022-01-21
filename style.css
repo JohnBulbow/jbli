@@ -1,5 +1,6 @@
 .navbar {
-    background-color: darkslateblue;
+    background-color: white;
+    margin-bottom: 7px;
 }
 
 .navbar-brand {
@@ -86,9 +87,6 @@ a {
     text-align: center;
 }
 
-.modal-header {
-    color: red;
-}
 
 /* CONTATO */
 #rot-2 {
@@ -187,6 +185,8 @@ p4 {
     text-align: justify;
 }
 
+
+
 #top-bar {
     background-color: coral;
 }
@@ -256,5 +256,3 @@ p4 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
-

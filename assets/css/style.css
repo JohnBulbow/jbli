@@ -1,0 +1,275 @@
+.navbar {
+    background-color: white;
+    margin-bottom: 7px;
+}
+
+.navbar-brand {
+    background-color: black;
+    padding: 20px;
+    margin-left: 2px;
+    border-radius: 10px 30px 30px 30px;
+}
+
+.i-dock {
+    margin-top: 5px;
+    margin-right: 13px;
+}
+
+.bulletlist ul {
+    text-align: justify;
+}
+
+#Curso1 {
+    background-color: lightskyblue;
+    padding-bottom: 20px;
+}
+
+#Curso2 {
+    background-color: lightskyblue;
+    padding-bottom: 20px;
+}
+
+#Curso3 {
+    background-color: lightslategrey;
+    padding-bottom: 20px;
+}
+
+#Curso4 {
+    background-color: lightslategrey;
+    padding-bottom: 20px;
+}
+
+
+/*
+#Curso5 {
+    background-color: lightslategrey;
+    padding-bottom: 20px;
+}
+
+#Curso6 {
+    background-color: lightslategrey;
+    padding-bottom: 20px;
+}
+
+#Curso7 {
+    background-color: lightslategrey;
+    padding-bottom: 20px;
+}
+
+#Curso8 {
+    background-color: lightslategrey;
+    padding-bottom: 20px;
+}
+*/
+
+.spacer1 {
+    margin-top: 10px;
+}
+
+h3 {
+    color: darkblue;
+    font-weight: 500;
+    background-color: coral;
+}
+
+a {
+    font-size: large;
+    font-weight: 900;
+}
+
+#rot-1 {
+    background-image: url(C:/JBLI-2015-21/jbli/assets/imgs/mat/poster.jpg);
+    /* background-image: url(assets/imgs/mat/poster.jpg); */
+    background-repeat: repeat;
+    background-position: center center;
+    text-align: center;
+}
+
+
+/* CONTATO */
+
+#rot-2 {
+    background-image: url(C:/JBLI-2015-21/jbli/assets/imgs/mat/JBLI-side2.jpg);
+    /* background-image: url(assets/imgs/mat/JBLI-side2.jpg); */
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+.carIndic {
+    padding-bottom: 20px;
+    /*border: 5px solid blue;*/
+}
+
+#formatos {
+    padding-top: 18px;
+    padding-bottom: 10px;
+}
+
+.background1 {
+    border: 5px solid blue;
+    background-image: url(C:/JBLI-2015-21/jbli/assets/imgs/blur/blur-video-c-sm.png);
+    /* background-image: url(assets/imgs/blur/blur-video-c-sm.png); */
+    background-position: center center;
+    width: 100%;
+}
+
+.background2 {
+    background-color: lightslategrey;
+    width: 100%;
+}
+
+#modulo {
+    padding-bottom: 20px;
+}
+
+#parceiros {
+    background-color: yellowgreen;
+    padding-top: 8px;
+    padding-bottom: 20px;
+    border: 5px solid blue;
+}
+
+#courses {
+    border: 5px solid blue;
+    background-color: whitesmoke;
+    padding-bottom: 20px;
+}
+
+#jb {
+    padding-bottom: 20px;
+}
+
+#collage {
+    background-color: orange;
+    padding-top: 8px;
+    padding-bottom: 20px;
+    border: 5px solid blue;
+    padding: 10px;
+    display: grid;
+    grid-template-areas: "assets/imgs/JBLI-2.png img 2 img3" "img4 img5 img5" "img4 img5 img5";
+}
+
+p {
+    text-align: justify;
+}
+
+p3 {
+    color: red;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+p5 {
+    font-size: larger;
+    font-weight: bolder;
+    font-style: justify;
+}
+
+p6 {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+p7 {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+p4 {
+    font-weight: bold;
+    text-align: justify;
+}
+
+p8 {
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+#top-bar {
+    background-color: coral;
+}
+
+#case {
+    border: 5px solid darkslateblue;
+    border-radius: 20px;
+    background-color: lightseagreen;
+    padding-left: 10px;
+    margin-top: 5.5px;
+    width: 136px;
+}
+
+.fa {
+    padding-top: 6px;
+    padding-left: 12.5px;
+    font-size: 30px;
+    height: 45px;
+    width: 45px;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 20%;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-instagram {
+    background: orangered;
+    color: white;
+    padding-top: 4.4px;
+    padding-left: 7.7px;
+    font-size: 10px;
+    height: 45px;
+    width: 45px;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 20%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+#case2 {
+    border: 5px solid darkslateblue;
+    border-radius: 20px;
+    background-color: darkblue;
+    padding-left: 8.5px;
+    margin-top: 5.5px;
+    margin-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 136px;
+}
+
+.btn-default {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 15px;
+    text-align: center center;
+    margin-left: 13px;
+}
+
+.btn-warning {
+    background-color: red;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 15px;
+    text-align: center center;
+    margin-right: 25px;
+}
+
+.btn-danger {
+    background-color: orange;
+}
+
+.copyright {
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

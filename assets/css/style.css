@@ -78,7 +78,7 @@ a {
 }
 
 #rot-1 {
-    background-image: url(C:/JBLI-2015-21/jbli/assets/imgs/mat/poster.jpg);
+    background-image: url(assets/imgs/mat/poster.jpg);
     /* background-image: url(assets/imgs/mat/poster.jpg); */
     background-repeat: repeat;
     background-position: center center;
@@ -89,7 +89,7 @@ a {
 /* CONTATO */
 
 #rot-2 {
-    background-image: url(C:/JBLI-2015-21/jbli/assets/imgs/mat/JBLI-side2.jpg);
+    background-image: url(assets/imgs/mat/JBLI-side2.jpg);
     /* background-image: url(assets/imgs/mat/JBLI-side2.jpg); */
     background-repeat: no-repeat;
     background-position: center;
@@ -108,7 +108,7 @@ a {
 
 .background1 {
     border: 5px solid blue;
-    background-image: url(C:/JBLI-2015-21/jbli/assets/imgs/blur/blur-video-c-sm.png);
+    background-image: url(assets/imgs/blur/blur-video-c-sm.png);
     /* background-image: url(assets/imgs/blur/blur-video-c-sm.png); */
     background-position: center center;
     width: 100%;

@@ -78,7 +78,7 @@ a {
 }
 
 #rot-1 {
-    background-image: url("https://github.com/JohnBulbow/jbli/tree/main/imgs/mat/poster.jpg");
+    background-image: url("https://github.com/JohnBulbow/jbli/imgs/mat/poster.jpg");
     background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/poster.jpg");
     background-repeat: repeat;
     background-position: center;
@@ -86,7 +86,7 @@ a {
 }
 
 #rot-2 {
-    background-image: url("https://github.com/JohnBulbow/jbli/tree/main/imgs/mat/JBLI-side2.jpg");
+    background-image: url("https://github.com/JohnBulbow/jbli/imgs/mat/JBLI-side2.jpg");
     background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/JBLI-side2.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -105,7 +105,7 @@ a {
 
 .background1 {
     border: 5px solid blue;
-    background-image: url("https://github.com/JohnBulbow/jbli/tree/main/imgs/blur/blur-video-c-sm.png");
+    background-image: url("https://github.com/JohnBulbow/jbli/imgs/blur/blur-video-c-sm.png");
     background-image: url("C:/JBLI-2015-21/jbli/imgs/blur/blur-video-c-sm.png");
     background-position: center center;
     width: 100%;
@@ -144,7 +144,7 @@ a {
     border: 5px solid blue;
     padding: 10px;
     display: grid;
-    grid-template-areas: "assets/imgs/JBLI-2.png img 2 img3" "img4 img5 img5" "img4 img5 img5";
+    grid-template-areas: "/imgs/JBLI-2.png img 2 img3" "img4 img5 img5" "img4 img5 img5";
 }
 
 p {

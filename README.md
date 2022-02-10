@@ -3,7 +3,7 @@ John Bulbow Language Institute
 
 Welcome to the John Bulbow Language Institute site page.
 
-More courses are be adding soon.
+More courses are being added soon.
 
 This site was built mostly with Bootstrap (a combo of HTML+CSS+JS Bundle). I had previously self-learnt all 3 languages years ago but I'm new to Bootstrap which made it super easy to build and manipulate to my needs.
 

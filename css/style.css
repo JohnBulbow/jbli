@@ -77,7 +77,7 @@ a {
     font-weight: 900;
 }
 
-#rot-1 {
+#rot {
     background-image: url("https://github.com/JohnBulbow/jbli/imgs/mat/poster.jpg");
     background-image: url("imgs/mat/poster.jpg");
     background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/poster.jpg");
@@ -86,7 +86,7 @@ a {
     text-align: center;
 }
 
-#rot-2 {
+#rott {
     background-image: url("https://github.com/JohnBulbow/jbli/imgs/mat/JBLI-side2.jpg");
     background-image: url("imgs/mat/JBLI-side2.jpg");
     background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/JBLI-side2.jpg");

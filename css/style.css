@@ -209,6 +209,11 @@ a {
     background-color: yellowgreen;
 }
 
+.makeroll img {
+    width: 310px;
+    height: 180px;
+}
+
 #courses {
     background-color: whitesmoke;
 }
@@ -266,11 +271,6 @@ p8 {
 
 .btn-danger {
     background-color: orange;
-}
-
-.makeroll img {
-    width: 380px;
-    height: 210px;
 }
 
 .copyright {

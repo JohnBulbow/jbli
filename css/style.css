@@ -24,8 +24,6 @@ header {
     /* height: 400px; */
     border: 1px solid #c3c3c3;
     border-radius: 10px 30px 30px 30px;
-    display: flex;
-    justify-content: space-between;
 }
 
 .navbar-toggler-icon {
@@ -37,11 +35,15 @@ header {
     border-radius: 10px 30px 30px 30px;
 }
 
-.navbar-brand,
+.navbar-brand {
+    margin: 0 auto;
+    padding: auto;
+}
+
 .navbar-brand1,
 .navbar-brand2 {
     /* background-color: black; */
-    padding: 20px;
+    /* padding: 20px; */
     /* margin-left: 2px; */
     border-radius: 10px 30px 30px 30px;
 }

@@ -112,7 +112,7 @@ header {
     justify-content: space-around;
 }
 
-.btn {
+.ask {
     border-radius: 5px;
     padding-left: 8.5px;
     padding-top: 8px;
@@ -205,6 +205,7 @@ a {
 }
 
 #parceiros {
+    width: 0 auto;
     background-color: yellowgreen;
 }
 
@@ -268,7 +269,7 @@ p8 {
 }
 
 .makeroll img {
-    width: 400px;
+    width: 380px;
     height: 210px;
 }
 

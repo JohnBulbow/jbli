@@ -102,7 +102,7 @@ header {
     border-radius: 20px;
     /* background-color: darkblue; */
     padding-left: 10px;
-    padding-top: 8px;
+    /* padding-bottom: 10px; */
     margin: 0 auto;
     width: 136px;
 }
@@ -112,12 +112,20 @@ header {
     justify-content: space-around;
 }
 
-
-/* .ask {
-    border-radius: 5px;
-    padding-left: 8.5px;
+.ask {
+    padding-left: 7px;
     padding-top: 8px;
-} */
+}
+
+#callme {
+    padding: auto;
+    font-weight: 500;
+    border-color: gold;
+}
+
+#prom {
+    margin-top: 8px;
+}
 
 p9 {
     color: blue;
@@ -206,13 +214,13 @@ a {
 }
 
 #parceiros {
-    width: 0 auto;
+    width: 100%;
     background-color: yellowgreen;
 }
 
 .makeroll img {
-    width: 250px;
-    height: 150px;
+    width: 370px;
+    height: 210px;
 }
 
 #courses {
@@ -254,7 +262,7 @@ p8 {
 
 .btn-default {
     padding-top: 7px;
-    padding-bottom: 7px;
+    padding-bottom: 9px;
     font-size: 15px;
     text-align: center center;
     margin-left: 13px;

@@ -81,7 +81,7 @@ header {
     background: orangered;
     color: white;
     padding-top: 3.5px;
-    padding-left: 1.5px;
+    padding-left: 0.5px;
     font-size: 10px;
     height: 45px;
     width: 45px;
@@ -166,32 +166,39 @@ a {
 }
 
 #poster {
-    background-image: url("imgs/mat/poster.jpg");
+    background-image: url("../imgs/mat/poster.jpg");
     background-repeat: repeat;
     background-position: center;
     text-align: center;
 }
 
 #JBLI-side {
-    background-image: url("imgs/mat/JBLI-side2.jpg");
+    background-image: url("../imgs/mat/JBLI-side2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
 }
 
 .carIndic {
+    margin-left: 10px;
+    margin-right: 10px;
     padding-top: 1px;
     padding-bottom: 20px;
 }
 
 #background {
+    margin: 0 auto;
     border: 5px solid blue;
-    background-image: url("imgs/blur/blur-video-c-sm.png");
-    background-color: lightblue;
+    background-image: url("../imgs/blur/blur.png");
+    /* background-color: lightblue; */
     background-position: center;
     padding-top: 1px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     width: 100%;
+}
+
+.blur {
+    background-image: url(blur.png);
 }
 
 .background2 {
@@ -208,7 +215,7 @@ a {
 }
 
 #parceiros {
-    width: 100%;
+    width: 98%;
     background-color: yellowgreen;
     margin-bottom: 10px;
 }
@@ -216,6 +223,7 @@ a {
 .makeroll img {
     width: 370px;
     height: 210px;
+    align-content: space-between;
 }
 
 #courses {

@@ -112,15 +112,17 @@ header {
     justify-content: space-around;
 }
 
-.ask {
-    padding-left: 7px;
-    padding-top: 8px;
-}
+.ask {}
 
 #callme {
     padding: auto;
     font-weight: 500;
     border-color: gold;
+}
+
+.perg {
+    padding-left: 7px;
+    padding-top: 8px;
 }
 
 #prom {
@@ -166,19 +168,19 @@ a {
     font-weight: 900;
 }
 
-#rot-1 {
-    /* background-image: url("jbli/imgs/mat/poster.jpg");
+#poster {
+    background-image: url("jbli/imgs/mat/poster.jpg");
     background-image: url("imgs/mat/poster.jpg");
-    background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/poster.jpg"); */
+    background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/poster.jpg");
     background-repeat: repeat;
     background-position: center;
     text-align: center;
 }
 
-#rot-2 {
-    /* background-image: url("https://github.com/JohnBulbow/jbli/imgs/mat/JBLI-side2.jpg");
+#JBLI-side {
+    background-image: url("https://github.com/JohnBulbow/jbli/imgs/mat/JBLI-side2.jpg");
     background-image: url("imgs/mat/JBLI-side2.jpg");
-    background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/JBLI-side2.jpg"); */
+    background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/JBLI-side2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
@@ -189,10 +191,10 @@ a {
     padding-bottom: 20px;
 }
 
-.background1 {
-    /*  border: 5px solid blue;
+#background1 {
+    border: 5px solid blue;
     background-image: url("imgs/blur/blur-video-c-sm.png");
-    background-image: url("C:/JBLI-2015-21/jbli/imgs/blur/blur-video-c-sm.png"); */
+    background-image: url("C:/JBLI-2015-21/jbli/imgs/blur/blur-video-c-sm.png");
     background-color: lightblue;
     background-position: center;
     padding-top: 1px;
@@ -231,10 +233,8 @@ p {
     text-align: justify;
 }
 
-p3 {
+h1 {
     color: red;
-    font-size: x-large;
-    font-weight: bolder;
 }
 
 p5 {
@@ -258,6 +258,11 @@ p8 {
     color: white;
     text-transform: capitalize;
     text-align: center;
+}
+
+p10 {
+    color: red;
+    font-weight: 700;
 }
 
 .btn-default {

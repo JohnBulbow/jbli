@@ -169,18 +169,14 @@ a {
 }
 
 #poster {
-    background-image: url("jbli/imgs/mat/poster.jpg");
     background-image: url("imgs/mat/poster.jpg");
-    background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/poster.jpg");
     background-repeat: repeat;
     background-position: center;
     text-align: center;
 }
 
 #JBLI-side {
-    background-image: url("https://github.com/JohnBulbow/jbli/imgs/mat/JBLI-side2.jpg");
     background-image: url("imgs/mat/JBLI-side2.jpg");
-    background-image: url("C:/JBLI-2015-21/jbli/imgs/mat/JBLI-side2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
@@ -194,8 +190,6 @@ a {
 #background1 {
     border: 5px solid blue;
     background-image: url("imgs/blur/blur-video-c-sm.png");
-    background-image: url("C:/JBLI-2015-21/jbli/imgs/blur/blur-video-c-sm.png");
-    background-image: url("https://github.com/JohnBulbow/jbli/imgs/blur/blur-video-c-sm.png");
     background-color: lightblue;
     background-position: center;
     padding-top: 1px;

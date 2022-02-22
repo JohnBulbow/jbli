@@ -136,21 +136,13 @@ p9 {
     text-align: justify;
 }
 
-#Curso1 {
-    background-color: lightskyblue;
-    padding-bottom: 20px;
-}
-
+#Curso1,
 #Curso2 {
     background-color: lightskyblue;
     padding-bottom: 20px;
 }
 
-#Curso3 {
-    background-color: lightslategrey;
-    padding-bottom: 20px;
-}
-
+#Curso3,
 #Curso4 {
     background-color: lightslategrey;
     padding-bottom: 20px;
@@ -190,20 +182,26 @@ a {
     margin: 0 auto;
     border: 5px solid blue;
     background-image: url("../imgs/blur/blur.png");
-    /* background-color: lightblue; */
+    background-color: lightblue;
     background-position: center;
     padding-top: 1px;
     padding-bottom: 10px;
     width: 100%;
 }
 
-.blur {
-    background-image: url(blur.png);
-}
-
 .background2 {
     background-color: lightslategrey;
     width: 100%;
+}
+
+#statue {
+    background-image: url("../imgs/statue/statue-of-liberty.jpg");
+    padding-bottom: 20px;
+}
+
+#statue1,
+#statue2 {
+    padding-bottom: 20px;
 }
 
 #modulo,
@@ -214,9 +212,19 @@ a {
     padding-bottom: 20px;
 }
 
+#modulo {
+    background-image: url("../imgs/blur/books-blur-3.png");
+}
+
+#mod1,
+#mod2,
+#mod3 {
+    padding-bottom: 20px;
+}
+
 #parceiros {
     width: 98%;
-    background-color: yellowgreen;
+    background-color: lightskyblue;
     margin-bottom: 10px;
 }
 
@@ -227,10 +235,22 @@ a {
 }
 
 #courses {
-    background-color: whitesmoke;
+    background-color: lightskyblue;
 }
 
 p {
+    text-align: justify;
+}
+
+p1 {
+    color: darkslategrey;
+    background-color: #c3c3c3;
+    font-style: italic;
+    font-weight: 500;
+}
+
+p2 {
+    color: white;
     text-align: justify;
 }
 

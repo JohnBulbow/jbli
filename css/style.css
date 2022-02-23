@@ -26,6 +26,10 @@ header {
     border-radius: 10px 30px 30px 30px;
 }
 
+title {
+    display: none;
+}
+
 .navbar-toggler-icon {
     margin: 0 auto;
     min-width: 300px;

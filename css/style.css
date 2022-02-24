@@ -1,6 +1,7 @@
 h3 {
     color: white;
     background-color: red;
+    border-radius: 9px;
 }
 
 hr {
@@ -19,9 +20,6 @@ header {
     min-width: 300px;
     max-width: 2000px;
     height: auto;
-    /* -webkit-column-span: all; */
-    /* -webkit-column-width: ; */
-    /* height: 400px; */
     border: 1px solid #c3c3c3;
     border-radius: 10px 30px 30px 30px;
 }
@@ -146,9 +144,15 @@ p9 {
     padding-bottom: 20px;
 }
 
-#Curso3,
+#Curso3 {
+    background-color: lightslategrey;
+    border-radius: 10px 0px 0px 10px;
+    padding-bottom: 20px;
+}
+
 #Curso4 {
     background-color: lightslategrey;
+    border-radius: 0px 10px 10px 0px;
     padding-bottom: 20px;
 }
 
@@ -176,21 +180,25 @@ a {
 }
 
 .carIndic {
-    margin-left: 10px;
-    margin-right: 10px;
+    width: 98%;
     padding-top: 1px;
     padding-bottom: 20px;
+    margin: 0 auto;
 }
 
+
+/* #car {
+    
+} */
+
 #background {
-    margin: 0 auto;
-    border: 5px solid blue;
     background-image: url("../imgs/blur/blur.png");
     background-color: lightblue;
     background-position: center;
-    padding-top: 1px;
-    padding-bottom: 10px;
-    width: 100%;
+}
+
+#jbli {
+    color: blue;
 }
 
 .background2 {
@@ -200,7 +208,8 @@ a {
 
 #statue {
     background-image: url("../imgs/statue/statue-of-liberty.jpg");
-    padding-bottom: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #statue1,
@@ -210,12 +219,17 @@ a {
     background-color: darkblue;
 }
 
+#background,
+#statue,
 #modulo,
 #parceiros,
-#courses,
-#jb {
+#courses {
+    border: 1px solid blue;
+    border-radius: 10px;
+    width: 98%;
     padding-top: 1px;
     padding-bottom: 20px;
+    margin: 0 auto;
 }
 
 #modulo {
@@ -235,21 +249,22 @@ a {
 }
 
 #parceiros {
-    width: 98%;
-    background-color: lightskyblue;
+    background-image: url("../imgs/parc/network.png");
+    background-position: center;
+    background-repeat: repeat;
+    /* background-color: blue; */
     margin-bottom: 10px;
 }
 
 .makeroll img {
-    /* width: 370px;
-    height: 210px; */
-    width: 420px;
-    height: 240px;
-    align-items: center;
+    width: 370px;
+    height: 200px;
 }
 
 #cardx {
     border: 1px solid black;
+    margin-inline: 18px;
+    margin-bottom: 10px;
 }
 
 #courses {
@@ -261,9 +276,7 @@ p {
 }
 
 p1 {
-    color: darkslategrey;
-    background-color: #c3c3c3;
-    font-style: italic;
+    color: black;
     font-weight: 500;
 }
 
@@ -328,8 +341,12 @@ p10 {
 
 .copyright {
     text-align: center;
-    background-color: black;
+    background-color: blue;
+    border-radius: 10px;
     color: blanchedalmond;
     padding-top: 10px;
     padding-bottom: 10px;
+    width: 98%;
+    margin: 0 auto;
+    margin-bottom: 10px;
 }

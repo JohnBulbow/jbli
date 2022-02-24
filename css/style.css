@@ -241,9 +241,11 @@ a {
 }
 
 .makeroll img {
-    width: 370px;
-    height: 210px;
-    align-content: space-between;
+    /* width: 370px;
+    height: 210px; */
+    width: 420px;
+    height: 240px;
+    align-items: center;
 }
 
 #cardx {

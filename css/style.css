@@ -257,13 +257,13 @@ a {
 }
 
 .makeroll img {
-    width: 370px;
-    height: 200px;
+    width: 310px;
+    height: 160px;
 }
 
 #cardx {
     border: 1px solid black;
-    margin-inline: 18px;
+    margin-inline: 35px;
     margin-bottom: 10px;
 }
 

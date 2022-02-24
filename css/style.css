@@ -228,6 +228,12 @@ a {
     padding-bottom: 20px;
 }
 
+#mod11,
+#mod22,
+#mod33 {
+    border: 1px solid black;
+}
+
 #parceiros {
     width: 98%;
     background-color: lightskyblue;
@@ -238,6 +244,10 @@ a {
     width: 370px;
     height: 210px;
     align-content: space-between;
+}
+
+#cardx {
+    border: 1px solid black;
 }
 
 #courses {

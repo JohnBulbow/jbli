@@ -13,9 +13,13 @@ m {
     font-weight: 400;
 }
 
+body {
+    background-color: lightgray;
+}
+
 header {
     background-color: black;
-    width: 90%;
+    width: 98%;
     margin: 0 auto;
     margin-top: 20px;
     max-width: 2000px;
@@ -28,7 +32,7 @@ title {
 }
 
 .navbar-toggler-icon {
-    min-width: 346px;
+    /* min-width: 370px; */
     height: auto;
     color: blue;
     border-color: red;
@@ -36,7 +40,22 @@ title {
 }
 
 .navbar-brand {
+    width: 98%;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 110px;
+}
+
+#head {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     margin: 0 auto;
+    margin-top: 20px;
 }
 
 .navbar-brand1,
@@ -141,13 +160,13 @@ p9 {
 
 #Curso3 {
     background-color: lightslategrey;
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 10px 10px 10px 10px;
     padding-bottom: 20px;
 }
 
 #Curso4 {
     background-color: lightslategrey;
-    border-radius: 0px 10px 10px 0px;
+    border-radius: 10px 10px 10px 10px;
     padding-bottom: 20px;
 }
 

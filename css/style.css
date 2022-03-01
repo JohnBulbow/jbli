@@ -17,10 +17,9 @@ header {
     background-color: black;
     width: 90%;
     margin: 0 auto;
-    min-width: 300px;
+    margin-top: 20px;
     max-width: 2000px;
-    height: auto;
-    border: 1px solid #c3c3c3;
+    /* border: 1px solid #c3c3c3; */
     border-radius: 10px 30px 30px 30px;
 }
 
@@ -29,8 +28,7 @@ title {
 }
 
 .navbar-toggler-icon {
-    margin: 0 auto;
-    min-width: 300px;
+    min-width: 346px;
     height: auto;
     color: blue;
     border-color: red;
@@ -39,7 +37,6 @@ title {
 
 .navbar-brand {
     margin: 0 auto;
-    padding: auto;
 }
 
 .navbar-brand1,
@@ -213,8 +210,7 @@ p12 {
 
 #statue {
     background-image: url("../imgs/statue/statue-of-liberty.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
+    background-position: stretch;
 }
 
 #statue1,

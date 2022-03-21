@@ -290,8 +290,7 @@ p12 {
 #parceiros {
     background-image: url("../imgs/parc/network.png");
     background-image: url("/imgs/parc/network.png");
-    "
- background-position: center;
+    background-position: center;
     background-repeat: repeat;
     /* background-color: blue; */
     margin: 0 auto;

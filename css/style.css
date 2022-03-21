@@ -54,6 +54,26 @@ title {
     margin-top: 20px;
 }
 
+h12 {
+    color: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    margin-top: 122px;
+}
+
+.blimp {
+    animation: blimp 1s linear infinite;
+}
+
+@keyframes blimp {
+    50% {
+        opacity: 0;
+    }
+}
+
 .navbar-brand1,
 .navbar-brand2 {
     border-radius: 10px 30px 30px 30px;
@@ -176,7 +196,7 @@ a {
 }
 
 #poster {
-    background-image: url("../imgs/mat/poster.jpg");
+    /* background-image: url("../imgs/mat/poster.jpg"); */
     background-repeat: repeat;
     background-position: center;
     text-align: center;

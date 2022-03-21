@@ -271,7 +271,6 @@ p12 {
 
 #modulo {
     background-image: url("../imgs/blur/books-blur-3.png");
-    background-image: url("/imgs/blur/books-blur-3.png");
     background-position: cover;
 }
 
@@ -289,7 +288,6 @@ p12 {
 
 #parceiros {
     background-image: url("../imgs/parc/network.png");
-    background-image: url("/imgs/parc/network.png");
     background-position: center;
     background-repeat: repeat;
     /* background-color: blue; */

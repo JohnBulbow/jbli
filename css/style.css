@@ -207,8 +207,8 @@ a {
 }
 
 #JBLI-side {
-    background-image: url("../imgs/mat/JBLI-side2.jpg");
-    background-repeat: no-repeat;
+    background-image: url("../imgs/mat/poster.jpg");
+    background-repeat: repeat;
     background-position: center;
     text-align: center;
 }
